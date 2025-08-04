@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Clarity @ Microsoft Egypt**
 
-- 👨‍💻 All of my projects are available at [http://github.com/mustaphasaqr](http://github.com/mustaphasaqr)
+- 👨‍💻 All of my projects are available at [https://mustaphasaqr.github.io/My-portfolio/](https://mustaphasaqr.github.io/My-portfolio/)
 
 - 📫 How to reach me **mustaphaosamasaqr@gmail.com**
 
