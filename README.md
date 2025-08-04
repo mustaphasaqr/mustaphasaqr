@@ -17,7 +17,7 @@
 
 ---
 
-## :hammer_and_wrench: Languages & Tools
+## 🛠️ Languages & Tools
 
 ### 🔹 Frontend
 <p align="left">
@@ -33,7 +33,7 @@
 ### 🔹 Backend
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="30" height="30"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot‑net/dot‑net‑original‑wordmark.svg" alt=".NET" width="30" height="30"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a>
@@ -57,16 +57,4 @@
 
 ---
 
-## 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustaphasaqr&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaphasaqr&layout=compact&theme=default" alt="Most Used Languages" />
-</p>
-
----
-
 Thank you for visiting! 😊
-
----
-
-*(تنسيق Markdown هذا مدعوم بالكامل من GitHub، ويُعرض تلقائيًا عند إنشاء ملف `README.md` في مستودع يحمل اسم المستخدم نفسه كما تبيّن في التوثيق الرسمي)* :contentReference[oaicite:1]{index=1}
