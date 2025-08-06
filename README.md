@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustapha Osama Saqr</h1>
-<h3 align="center">Software Engineer from Egypt</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on **Clarity @ Microsoft Egypt**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mustaphasaqr.github.io/portfolio/)
