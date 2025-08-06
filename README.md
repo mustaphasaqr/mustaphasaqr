@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from Egypt</h3>
 
 - 🔭 I’m currently working on **Clarity @ Microsoft Egypt**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mustaphasaqr.github.io/My-portfolio/](https://mustaphasaqr.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mustaphasaqr.github.io/portfolio/)
 - 📫 Reach me at: **mustaphasaqr@gmail.com**
 - 📄 Check my experiences: [Curriculum Vitae](https://drive.google.com/file/d/1Ae_O1nlrOCF23RL8wgavSiY4yaxk9cVI/view?usp=drive_link)
 
